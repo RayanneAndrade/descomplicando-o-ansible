@@ -10,8 +10,4 @@ Projeto com contribuição dos alunos.
 - Deploy_app => Deploy de uma aplicação exemplo
 ```
 
-
 Executar sequencialmente o provisioning -> install_k8s -> deploy-app-v1
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
